@@ -1,0 +1,7 @@
+matplotlib
+mlflow
+numpy
+pandas
+pyarrow
+pyspark
+scikit-learn
